@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- [![Squidward79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Squidward79)](https://github.com/Squidward79/github-readme-stats)
+ [![Squidward79's GitHub stats](https://github-readme-stats.vercel.app/api?username=Squidward79&show_icons=true&theme=radical)](https://github.com/Squidward79/github-readme-stats)
 <!--
 **Squidward79/Squidward79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
